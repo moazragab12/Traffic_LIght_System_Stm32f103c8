@@ -44,12 +44,6 @@ This project implements a traffic light controller that allows pedestrians to cr
 
 5. **Test** by pressing the pedestrian button and observing the LED sequence.
 
-## Project Structure
-
-- `src/` - Source code files
-- `inc/` - Header files
-- `README.md` - Project documentation (this file)
-
 ## How It Works
 
 1. **Normal Operation**: Vehicles have a green light; pedestrians have a red light.
